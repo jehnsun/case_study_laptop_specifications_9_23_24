@@ -9,11 +9,12 @@ Original Dataset
 - "9_26_24_Laptop prices_transformed - Summary of Laptops Between 500 - 1000 USD.csv"
 - "9_26_24_Laptop_prices_transformed - Laptops Between 500 - 1000 USD.csv"
 
-# Code Used:
+# Code Used
 - SQL - Used MySQL Workbench 8.0 CE
-- Note: there is no import Schema/table in SQL script due to using the onboard features of MySQL
+- Note: There is no import Schema/table in SQL script due to using the onboard features of MySQL ("Create Schema" > "Table Data Import Wizard").
+- Note: After running script for the first time, remove lines 65-66 and 68-69.
 
-# Link to Tableau Dashboard:
+# Link to Tableau Dashboard
 https://public.tableau.com/views/LaptopSpecificationsDataset/SummaryofDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Laptop Specifications Case Study:
