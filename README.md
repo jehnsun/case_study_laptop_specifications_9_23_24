@@ -13,7 +13,7 @@ Original Dataset
 - SQL - Used MySQL Workbench 8.0 CE
 - Note: there is no import Schema/table in SQL script due to using the onboard features of MySQL
 
-#Link to Tableau Dashboard
+# Link to Tableau Dashboard:
 https://public.tableau.com/views/LaptopSpecificationsDataset/SummaryofDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Laptop Specifications Case Study:
