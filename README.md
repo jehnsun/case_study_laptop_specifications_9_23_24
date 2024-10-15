@@ -38,7 +38,9 @@ Majority of laptops in the market are within the price range of 500 to 1000 USD.
 
 ## Where to Go From Here?
 Today - Identify the goals/focus of the digital program
+
 Tomorrow - Use the laptop specifications as a starting point to determine limitations. Determine basic and recommended specifications required to run the program
+
 Next Year - Evaluate potential bugs that could occur with consumer devices and improve optimization based on feedback. Create a roadmap of potential features that could improve on the overall user expereince and how it can be built upon existing hardware. 
 
 Please contact Johnson Vo (johnsonvo277@gmail.com) with any questions.
