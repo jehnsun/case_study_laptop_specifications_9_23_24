@@ -30,7 +30,7 @@ Like many other devices, laptops have a CPU, GPU, and RAM. These components dete
 ## Tools Used
 - Kaggle (Source of Dataset)
 - Spreadsheet (Clean the data and create visualizations)
-- SQL (Clean and format the data)
+- [SQL (Clean and format the data)](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
 - Tableau (More visualizations)
 
 ## Conclusion
