@@ -29,9 +29,9 @@ Like many other devices, laptops have a CPU, GPU, and RAM. These components dete
 
 ## Tools Used
 - Kaggle (Source of Dataset)
-- Spreadsheet (Clean the data and create visualizations)
+- Excel (Clean the data and create visualizations)
 - [SQL (Clean and format the data)](https://github.com/jehnsun/case_study_laptop_specifications_9_23_24/blob/main/SQL%20script%20for%20laptops.sql)
-- Tableau (More visualizations)
+- [Tableau (More visualizations)](https://public.tableau.com/views/LaptopSpecificationsDataset/SummaryofDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 Majority of laptops in the market are within the price range of 500 to 1000 USD. In order for companies to fit within budget contraints, many of these laptops contain either an 11th gen, 12th gen, Intel Core i5, or a AMD Hexa-Core Ryzen 5 as the main choice of CPU (Processor). Secondly, companies use the Iris Xe and Integrated Graphics as the main GPU. Finally, companies use DDR4 as the main source of RAM. These specifications identify the starting point companies should use to understand what to develop their application around. 
